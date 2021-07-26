@@ -1,12 +1,8 @@
-<h1 align="center">Hi 👋, I'm Agrin Fauzi</h1>
-<h3 align="center">A passionate backend developer from Yogyakarta, ID</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrinfauzi&label=Profile%20views&color=0e75b6&style=flat" alt="agrinfauzi" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrinfauzi&show_icons=true&locale=en" alt="agrinfauzi" /></p>
-
-
-<p align="left"> <a href="https://twitter.com/agrinfauzi" target="blank"><img src="https://img.shields.io/twitter/follow/agrinfauzi?logo=twitter&style=for-the-badge" alt="agrinfauzi" /></a> </p>
+<h1 align="center">
+  Hi 👋, I'm Agrin Fauzi
+  <br>
+  <span align="center"> <img src="https://komarev.com/ghpvc/?username=agrinfauzi&label=Profile%20visits&color=56D364&style=flat" alt="agrinfauzi" /> </span>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
